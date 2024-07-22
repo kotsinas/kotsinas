@@ -23,7 +23,7 @@ I am seeking opportunities in the fields of Data Engineering, Data Analysis, or 
 
 **Data and Computing Systems Engineer**  
 *Department of Computer Engineering and Informatics, Polytechnic School University of Ioannina, Greece*  
-**Master Thesis:** [Ranking Queries over Range Data](#)  
+**Master Thesis:** [Ranking Queries over Range Data](https://github.com/kotsinas/HINTm_on_TOP-k)  
 
 ---
 
