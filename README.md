@@ -1,4 +1,4 @@
-# Georgios Kotsinas - Data Engineer, Analyst, and Manager
+# Georgios Kotsinas - Data Engineer, Analyst
 
 **Date of Birth:** February 3, 1997  
 **Location:** Athens, Greece
