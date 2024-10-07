@@ -7,7 +7,7 @@
 
 ## About Me
 
-I am seeking opportunities in the fields of Data Engineering, Data Analysis, or Data Management. With a strong academic background, I am eager to contribute to innovative projects and drive data-driven decision-making processes.
+I am seeking opportunities in the fields of Data Engineering or Data Analysis.. With a strong academic background, I am eager to contribute to innovative projects.
 
 ---
 
