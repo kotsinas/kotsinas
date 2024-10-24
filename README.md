@@ -39,5 +39,5 @@ Feel free to reach out to me for collaboration, opportunities, or any inquiries 
 
 **Email:** giorgoskotsinas@gmail.com  
  
----
+
 
