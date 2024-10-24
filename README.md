@@ -41,4 +41,3 @@ Feel free to reach out to me for collaboration, opportunities, or any inquiries 
  
 ---
 
-Thank you for visiting my GitHub profile!
